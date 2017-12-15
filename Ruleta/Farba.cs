@@ -25,14 +25,5 @@ namespace Ruleta
         druha,
         tretia,
     }
-    public enum Rozsah // enum  nesmie byt cislo
-    {
-        ziadny,// nula vzdy nikam nepatri
-        r1_12,
-        r13_24,
-        r25_36,
-        r1_18,
-        r19_36,
-
-    }
+    
 }

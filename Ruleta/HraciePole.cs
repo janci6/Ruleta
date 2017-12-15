@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ruleta
 {
-    public class HraciePole
+    public struct HraciePole
     {
         public int cislo;
         public Farba farba;
